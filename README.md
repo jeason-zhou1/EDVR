@@ -1,0 +1,2 @@
+## 快速开始
+添加不同的loss只需要将options/train下的配置进行修改pixel_criterion，和EDSR的写法类似
